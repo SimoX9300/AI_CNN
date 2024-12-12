@@ -9,6 +9,7 @@ This project focuses on classifying images from the CIFAR-10 dataset using Convo
 ---
 
 Google Colab link: https://colab.research.google.com/drive/17LbsMVHmQ2Ums28TQsUy0JKLLWwftZst?usp=sharing 
+Video Demo: https://youtu.be/OdLN-6J_ZAU 
 
 ---
 
